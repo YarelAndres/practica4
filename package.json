@@ -1,0 +1,11 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "npm run build",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
